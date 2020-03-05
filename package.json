@@ -1,0 +1,27 @@
+{
+    "name": "fhc-reports-seeder",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:FlorenceHC/fhc-reports-seeder.git"
+    },
+    "author": "Igor Grebenarovic",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://https://github.com/FlorenceHC/fhc-reports-seeder/issues"
+    },
+    "dependencies": {
+        "assert": "^2.0.0",
+        "commander": "^4.1.1",
+        "dotenv": "^8.2.0",
+        "faker": "^4.1.0",
+        "fs": "0.0.1-security",
+        "lodash": "^4.17.15",
+        "mongodb": "^3.5.4",
+        "p-map": "^4.0.0"
+    }
+}
