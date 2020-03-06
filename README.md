@@ -6,9 +6,6 @@ This repository is used for seeding report data into migration database used in 
 
 ```
 MONGO_URL=mongodb://host_xxx:27017/database_xxx #(required) connection to database that report data will be inserted in
-DB_USER=xxx # if using srv connection
-DB_PASSWORD=xxx # if using srv connection
-NODE_ENV=xxx #use "development" in dev mode
 ```
 
 ### Running the script
